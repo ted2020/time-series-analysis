@@ -29,3 +29,6 @@
  
  ##### apply neural networks - RNN - recurrent neural networks
  ##### RNN with LTSM
+
+
+### upload the code, REMEMBER
